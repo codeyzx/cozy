@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895050671303",
+    "project_id": "chyess-c7cad",
+    "storage_bucket": "chyess-c7cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895050671303:android:24079da99d38b3a6aecae2",
+        "android_client_info": {
+          "package_name": "com.chyess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895050671303-piv4f99pb3agk949raj8bficul3gnqgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6EUJofuwCAPYv_B9-537nVkpmi5yQE7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895050671303-piv4f99pb3agk949raj8bficul3gnqgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

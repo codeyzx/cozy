@@ -3,7 +3,7 @@ name: 🔨🧪 Build & Test
 permissions: write-all
 
 on:
-  pull_request:
+  push:
     branches:
       - "main"
     tags:
